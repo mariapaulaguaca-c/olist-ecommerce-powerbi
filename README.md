@@ -4,9 +4,9 @@ Two-page Power BI report on \~100,000 real orders from Olist, a Brazilian e-comm
 
 **Key finding:** orders delivered late are rated **1.7 stars lower** than on-time orders (2.57 vs. 4.29 out of 5).
 
-!\[Sales Overview](images/sales\_overview.png)
+!\[Sales Overview](olist-ecommerce-powerbi/images/sales\_overview.png)
 
-!\[Delivery \& Satisfaction](images/delivery\_satisfaction.png)
+!\[Delivery \& Satisfaction](olist-ecommerce-powerbi/images/delivery\_satisfaction.png)
 
 \---
 
