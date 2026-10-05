@@ -108,9 +108,3 @@ Power BI Desktop · Power Query · DAX
 
 **Maria Paula Guaca Campo** — [LinkedIn](https://linkedin.com/in/mariapaulaguacacampo) · [GitHub](https://github.com/mariapaulaguaca-c)
 
-```
-
-## Author
-
-**Maria Paula Guaca Campo** — [LinkedIn](https://linkedin.com/in/mariapaulaguacacampo) · [GitHub](https://github.com/mariapaulaguaca-c)
-
